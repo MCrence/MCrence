@@ -85,5 +85,4 @@ Curiosity drives my learning — I’m always exploring new frameworks, tools, a
 ---
 
 <p align="center">
-  🌟 *"Every code you write is a step toward mastery — keep building, keep learning!"*
 </p>
