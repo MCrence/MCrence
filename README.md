@@ -67,6 +67,14 @@ Curiosity drives my learning — I’m always exploring new frameworks, tools, a
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCrence&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.facebook.com/share/1Zg9MxU43K/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
